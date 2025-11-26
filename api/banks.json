@@ -1,0 +1,38 @@
+[
+    {
+        "id": 441,
+        "bank": "BANK OCBC – INDONESIA",
+        "name": "PT HADIYYA KAIA BAROKAH",
+        "number": "515800010040",
+        "currency": "IDR",
+        "logo": {
+            "url": "/muslimpergi/uploads/bank/logo/441/L.png",
+            "medium": {
+                "url": "/muslimpergi/uploads/bank/logo/441/medium_L.png"
+            },
+            "small": {
+                "url": "/muslimpergi/uploads/bank/logo/441/small_L.png"
+            }
+        },
+        "category": "HAJI|UMROH|TABUNGAN|TOUR",
+        "payment": "DP|CICILAN|PELUNASAN"
+    },
+    {
+        "id": 397,
+        "bank": "BANK BCA",
+        "name": "HADIYYA KAIA BAROKAH PT",
+        "number": "0614459995",
+        "currency": "IDR",
+        "logo": {
+            "url": "/muslimpergi/uploads/bank/logo/397/Bank_BCA_Logo__PNG-240p__-_FileVector69.png",
+            "medium": {
+                "url": "/muslimpergi/uploads/bank/logo/397/medium_Bank_BCA_Logo__PNG-240p__-_FileVector69.png"
+            },
+            "small": {
+                "url": "/muslimpergi/uploads/bank/logo/397/small_Bank_BCA_Logo__PNG-240p__-_FileVector69.png"
+            }
+        },
+        "category": "HAJI|UMROH|TABUNGAN|TOUR",
+        "payment": "DP|CICILAN|PELUNASAN"
+    }
+]

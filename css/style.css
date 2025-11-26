@@ -1,0 +1,16 @@
+ .hero_single.version_2:before {
+      background-image: url(https://storage.googleapis.com/muslimpergi/uploads/site/background/209/prophet-mohammed-mosque-al-masjid-an-nabawi_hadiyya-tour_1280x853px.min.jpg);
+    }
+
+    .hero_in.contacts:before {
+      background-image: url(https://storage.googleapis.com/muslimpergi/uploads/site/background2/209/prophet-mohammed-mosque-al-masjid-an-nabawi_hadiyya-tour_1280x853px.min.jpg);
+    }
+
+    #login_bg,
+    #register_bg {
+      background-image: url(https://storage.googleapis.com/muslimpergi/uploads/site/background2/209/prophet-mohammed-mosque-al-masjid-an-nabawi_hadiyya-tour_1280x853px.min.jpg);
+    }
+
+    .call_section {
+      background-image: url(https://storage.googleapis.com/muslimpergi/uploads/site/background2/209/prophet-mohammed-mosque-al-masjid-an-nabawi_hadiyya-tour_1280x853px.min.jpg);
+    }

@@ -1,0 +1,142 @@
+[
+    {
+        "id": 12133,
+        "to": {
+            "id": 1,
+            "slug": "soekarno-hatta-international-airport",
+            "name": "CGK - Soekarno–Hatta International Airport",
+            "code": "CGK",
+            "lat": "-6.12663526349654",
+            "lon": "106.65375961960444",
+            "city": "Jakarta",
+            "country": "ID",
+            "web": "http://soekarnohatta-airport.co.id/",
+            "created_at": "2017-08-14T14:50:52.000+07:00",
+            "updated_at": "2019-11-14T23:01:27.116+07:00",
+            "siskopatuh_id": 1
+        },
+        "from": {
+            "id": 3,
+            "slug": "king-abdulaziz-international-airport",
+            "name": "JED - King Abdulaziz International Airport",
+            "code": "JED",
+            "lat": "21.68160558442767",
+            "lon": "39.17504563034663",
+            "city": "Jeddah",
+            "country": "SA",
+            "web": "http://www.jed-airport.com/",
+            "created_at": "2017-08-14T15:02:08.000+07:00",
+            "updated_at": "2019-10-15T13:56:21.223+07:00",
+            "siskopatuh_id": 16
+        },
+        "gate": null,
+        "code": "SV 818",
+        "klass": null,
+        "etd_at": "2026-01-04T18:30:00.000+07:00",
+        "eta_at": "2026-01-05T08:15:00.000+07:00",
+        "airline": {
+            "id": 1,
+            "slug": "saudi-arabian-airlines",
+            "name": "Saudia Airlines",
+            "code": "SV",
+            "logo": {
+                "url": "/muslimpergi/uploads/airline/logo/1/saudia.jpg",
+                "medium": {
+                    "url": "/muslimpergi/uploads/airline/logo/1/medium_saudia.jpg"
+                },
+                "small": {
+                    "url": "/muslimpergi/uploads/airline/logo/1/small_saudia.jpg"
+                }
+            },
+            "web": "https://www.saudia.com/",
+            "created_at": "2017-08-14T14:31:32.000+07:00",
+            "updated_at": "2021-11-24T11:18:06.870+07:00",
+            "siskopatuh_id": 71,
+            "icon": {
+                "url": "/muslimpergi/uploads/airline/icon/1/saudia.png",
+                "medium": {
+                    "url": "/muslimpergi/uploads/airline/icon/1/medium_saudia.png"
+                },
+                "small": {
+                    "url": "/muslimpergi/uploads/airline/icon/1/small_saudia.png"
+                }
+            }
+        },
+        "terminal": "1",
+        "boarding_at": "2026-01-04T18:30:00.000+07:00",
+        "flight_type": "DIRECT",
+        "direction_type": "BACK",
+        "created_at": "2025-08-03T14:14:15.680+07:00",
+        "updated_at": "2025-08-03T14:21:00.250+07:00"
+    },
+    {
+        "id": 12132,
+        "to": {
+            "id": 3,
+            "slug": "king-abdulaziz-international-airport",
+            "name": "JED - King Abdulaziz International Airport",
+            "code": "JED",
+            "lat": "21.68160558442767",
+            "lon": "39.17504563034663",
+            "city": "Jeddah",
+            "country": "SA",
+            "web": "http://www.jed-airport.com/",
+            "created_at": "2017-08-14T15:02:08.000+07:00",
+            "updated_at": "2019-10-15T13:56:21.223+07:00",
+            "siskopatuh_id": 16
+        },
+        "from": {
+            "id": 1,
+            "slug": "soekarno-hatta-international-airport",
+            "name": "CGK - Soekarno–Hatta International Airport",
+            "code": "CGK",
+            "lat": "-6.12663526349654",
+            "lon": "106.65375961960444",
+            "city": "Jakarta",
+            "country": "ID",
+            "web": "http://soekarnohatta-airport.co.id/",
+            "created_at": "2017-08-14T14:50:52.000+07:00",
+            "updated_at": "2019-11-14T23:01:27.116+07:00",
+            "siskopatuh_id": 1
+        },
+        "gate": null,
+        "code": "SV 821",
+        "klass": null,
+        "etd_at": "2025-12-28T00:40:00.000+07:00",
+        "eta_at": "2025-12-28T06:40:00.000+07:00",
+        "airline": {
+            "id": 1,
+            "slug": "saudi-arabian-airlines",
+            "name": "Saudia Airlines",
+            "code": "SV",
+            "logo": {
+                "url": "/muslimpergi/uploads/airline/logo/1/saudia.jpg",
+                "medium": {
+                    "url": "/muslimpergi/uploads/airline/logo/1/medium_saudia.jpg"
+                },
+                "small": {
+                    "url": "/muslimpergi/uploads/airline/logo/1/small_saudia.jpg"
+                }
+            },
+            "web": "https://www.saudia.com/",
+            "created_at": "2017-08-14T14:31:32.000+07:00",
+            "updated_at": "2021-11-24T11:18:06.870+07:00",
+            "siskopatuh_id": 71,
+            "icon": {
+                "url": "/muslimpergi/uploads/airline/icon/1/saudia.png",
+                "medium": {
+                    "url": "/muslimpergi/uploads/airline/icon/1/medium_saudia.png"
+                },
+                "small": {
+                    "url": "/muslimpergi/uploads/airline/icon/1/small_saudia.png"
+                }
+            }
+        },
+        "terminal": "1",
+        "boarding_at": "2025-12-28T00:40:00.000+07:00",
+        "flight_type": "DIRECT",
+        "direction_type": "GO",
+        "created_at": "2025-08-03T14:14:15.673+07:00",
+        "updated_at": "2025-08-03T14:21:00.249+07:00"
+    }
+]

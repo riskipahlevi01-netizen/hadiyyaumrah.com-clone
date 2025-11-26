@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/page/:slug",  
+      "destination": "/pege/:slug.html"  
+    }
+  ]
+}

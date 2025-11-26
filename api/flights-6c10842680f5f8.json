@@ -1,0 +1,142 @@
+[
+    {
+        "id": 12673,
+        "to": {
+            "id": 86,
+            "slug": "singapore-changi-airport-z36a2zqyxx",
+            "name": "SIN - SINGAPORE CHANGI AIRPORT",
+            "code": "SIN",
+            "lat": "1.3644202",
+            "lon": "103.9915308",
+            "city": "Singapore",
+            "country": "SG",
+            "web": "https://www.changiairport.com/",
+            "created_at": "2022-07-15T15:03:41.828+07:00",
+            "updated_at": "2022-07-15T15:04:09.585+07:00",
+            "siskopatuh_id": 15
+        },
+        "from": {
+            "id": 3,
+            "slug": "king-abdulaziz-international-airport",
+            "name": "JED - King Abdulaziz International Airport",
+            "code": "JED",
+            "lat": "21.68160558442767",
+            "lon": "39.17504563034663",
+            "city": "Jeddah",
+            "country": "SA",
+            "web": "http://www.jed-airport.com/",
+            "created_at": "2017-08-14T15:02:08.000+07:00",
+            "updated_at": "2019-10-15T13:56:21.223+07:00",
+            "siskopatuh_id": 16
+        },
+        "gate": null,
+        "code": "SV 856",
+        "klass": null,
+        "etd_at": "2026-03-02T01:35:00.000+07:00",
+        "eta_at": "2026-03-02T15:40:00.000+07:00",
+        "airline": {
+            "id": 1,
+            "slug": "saudi-arabian-airlines",
+            "name": "Saudia Airlines",
+            "code": "SV",
+            "logo": {
+                "url": "/muslimpergi/uploads/airline/logo/1/saudia.jpg",
+                "medium": {
+                    "url": "/muslimpergi/uploads/airline/logo/1/medium_saudia.jpg"
+                },
+                "small": {
+                    "url": "/muslimpergi/uploads/airline/logo/1/small_saudia.jpg"
+                }
+            },
+            "web": "https://www.saudia.com/",
+            "created_at": "2017-08-14T14:31:32.000+07:00",
+            "updated_at": "2021-11-24T11:18:06.870+07:00",
+            "siskopatuh_id": 71,
+            "icon": {
+                "url": "/muslimpergi/uploads/airline/icon/1/saudia.png",
+                "medium": {
+                    "url": "/muslimpergi/uploads/airline/icon/1/medium_saudia.png"
+                },
+                "small": {
+                    "url": "/muslimpergi/uploads/airline/icon/1/small_saudia.png"
+                }
+            }
+        },
+        "terminal": "1",
+        "boarding_at": "2026-03-02T01:35:00.000+07:00",
+        "flight_type": "DIRECT",
+        "direction_type": "BACK",
+        "created_at": "2025-09-20T12:46:57.033+07:00",
+        "updated_at": "2025-09-20T12:56:41.810+07:00"
+    },
+    {
+        "id": 12672,
+        "to": {
+            "id": 3,
+            "slug": "king-abdulaziz-international-airport",
+            "name": "JED - King Abdulaziz International Airport",
+            "code": "JED",
+            "lat": "21.68160558442767",
+            "lon": "39.17504563034663",
+            "city": "Jeddah",
+            "country": "SA",
+            "web": "http://www.jed-airport.com/",
+            "created_at": "2017-08-14T15:02:08.000+07:00",
+            "updated_at": "2019-10-15T13:56:21.223+07:00",
+            "siskopatuh_id": 16
+        },
+        "from": {
+            "id": 86,
+            "slug": "singapore-changi-airport-z36a2zqyxx",
+            "name": "SIN - SINGAPORE CHANGI AIRPORT",
+            "code": "SIN",
+            "lat": "1.3644202",
+            "lon": "103.9915308",
+            "city": "Singapore",
+            "country": "SG",
+            "web": "https://www.changiairport.com/",
+            "created_at": "2022-07-15T15:03:41.828+07:00",
+            "updated_at": "2022-07-15T15:04:09.585+07:00",
+            "siskopatuh_id": 15
+        },
+        "gate": null,
+        "code": "SV 857",
+        "klass": null,
+        "etd_at": "2026-02-21T02:00:00.000+07:00",
+        "eta_at": "2026-02-21T06:30:00.000+07:00",
+        "airline": {
+            "id": 1,
+            "slug": "saudi-arabian-airlines",
+            "name": "Saudia Airlines",
+            "code": "SV",
+            "logo": {
+                "url": "/muslimpergi/uploads/airline/logo/1/saudia.jpg",
+                "medium": {
+                    "url": "/muslimpergi/uploads/airline/logo/1/medium_saudia.jpg"
+                },
+                "small": {
+                    "url": "/muslimpergi/uploads/airline/logo/1/small_saudia.jpg"
+                }
+            },
+            "web": "https://www.saudia.com/",
+            "created_at": "2017-08-14T14:31:32.000+07:00",
+            "updated_at": "2021-11-24T11:18:06.870+07:00",
+            "siskopatuh_id": 71,
+            "icon": {
+                "url": "/muslimpergi/uploads/airline/icon/1/saudia.png",
+                "medium": {
+                    "url": "/muslimpergi/uploads/airline/icon/1/medium_saudia.png"
+                },
+                "small": {
+                    "url": "/muslimpergi/uploads/airline/icon/1/small_saudia.png"
+                }
+            }
+        },
+        "terminal": "1",
+        "boarding_at": "2026-02-21T02:00:00.000+07:00",
+        "flight_type": "DIRECT",
+        "direction_type": "GO",
+        "created_at": "2025-09-20T12:46:57.026+07:00",
+        "updated_at": "2025-09-20T12:56:42.005+07:00"
+    }
+]
